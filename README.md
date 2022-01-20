@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
+
+![](https://komarev.com/ghpvc/?username=shaonianzhentan&color=green)
 
 <!--
 **shaonianzhentan/shaonianzhentan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![shaonianzhentan's github stats](https://github-readme-stats.vercel.app/api?username=shaonianzhentan&count_private=true&show_icons=true)
