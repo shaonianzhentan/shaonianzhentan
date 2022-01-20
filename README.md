@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ![shaonianzhentan's github stats](https://github-readme-stats.vercel.app/api?username=shaonianzhentan&count_private=true&show_icons=true)
+
+#### 关注我的微信订阅号，了解更多HomeAssistant相关知识
+<img src="https://cdn.jsdelivr.net/gh/shaonianzhentan/ha-docs@master/docs/img/wechat-channel.png" height="160" alt="HomeAssistant家庭助理" title="HomeAssistant家庭助理"> 
